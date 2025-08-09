@@ -49,21 +49,21 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohitGhosh17&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitGhosh17&layout=compact&theme=radical" alt="Top languages" height="160"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" alt="GitHub streak" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=MohitGhosh17&theme=radical" alt="GitHub streak" height="160"/>
 </p>
 
 ---
 
 ## 📈 Activity Graph
-[![Mohit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mohit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohitGhosh17&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
